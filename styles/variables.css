@@ -1,0 +1,22 @@
+/* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+  --font-main: 'Inter', sans-serif;
+  --font-accent: 'PressStart2P', fantasy;
+  --font-weight-text: 400;
+  --font-weight-title: 785;
+  
+  --bg-color: #fff;
+  --text-color: #000;
+  --accent-color: #000;
+  --button-bg: #fff;
+  --border-color: #000;
+  
+  --gradient-bg: repeating-linear-gradient(to right, #d3d3d3 0 2px, transparent 2px 4px),
+                  repeating-linear-gradient(to bottom, #d3d3d3 0 2px, transparent 2px 4px),
+                  linear-gradient(to bottom, #e7e7e7 0.01%, #1a1a1a);
+  
+  --animation-fill-color: #ff0000;
+  --contour-color: #000;
+  --label-stroke-color: #fff;
+}
