@@ -1,35 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" fill="none">
-  <symbol id="floppy">
-    <path d="M0 0H3V3H0V0Z" fill="currentColor"/>
-    <path d="M3 0H6V3H3V0Z" fill="currentColor"/>
-    <path d="M6 0H9V3H6V0Z" fill="currentColor"/>
-    <path d="M9 0H12V3H9V0Z" fill="currentColor"/>
-    <path d="M12 0H15V3H12V0Z" fill="currentColor"/>
-    <path d="M15 0H18V3H15V0Z" fill="currentColor"/>
-    <path d="M0 3H3V6H0V3Z" fill="currentColor"/>
-    <path d="M18 3H21V6H18V3Z" fill="currentColor"/>
-    <path d="M0 6H3V9H0V6Z" fill="currentColor"/>
-    <path d="M3 6H6V9H3V6Z" fill="currentColor"/>
-    <path d="M6 6H9V9H6V6Z" fill="currentColor"/>
-    <path d="M9 6H12V9H9V6Z" fill="currentColor"/>
-    <path d="M18 6H21V9H18V6Z" fill="currentColor"/>
-    <path d="M0 9H3V12H0V9Z" fill="currentColor"/>
-    <path d="M18 9H21V12H18V9Z" fill="currentColor"/>
-    <path d="M0 12H3V15H0V12Z" fill="currentColor"/>
-    <path d="M18 12H21V15H18V12Z" fill="currentColor"/>
-    <path d="M0 15H3V18H0V15Z" fill="currentColor"/>
-    <path d="M3 15H6V18H3V15Z" fill="currentColor"/>
-    <path d="M6 15H9V18H6V15Z" fill="currentColor"/>
-    <path d="M9 15H12V18H9V15Z" fill="currentColor"/>
-    <path d="M12 15H15V18H12V15Z" fill="currentColor"/>
-    <path d="M15 15H18V18H15V15Z" fill="currentColor"/>
-    <path d="M18 15H21V18H18V15Z" fill="currentColor"/>
-    <path d="M0 18H3V21H0V18Z" fill="currentColor"/>
-    <path d="M3 18H6V21H3V18Z" fill="currentColor"/>
-    <path d="M6 18H9V21H6V18Z" fill="currentColor"/>
-    <path d="M9 18H12V21H9V18Z" fill="currentColor"/>
-    <path d="M12 18H15V21H12V18Z" fill="currentColor"/>
-    <path d="M15 18H18V21H15V18Z" fill="currentColor"/>
-    <path d="M18 18H21V21H18V18Z" fill="currentColor"/>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="floppy" viewBox="0 0 21 21" fill="none">
+    <rect width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="1.61523" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="3.23047" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="4.8457" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="6.46191" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="8.07715" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="9.69238" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="11.3076" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="12.9229" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="14.5381" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="16.1543" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="17.7695" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect y="19.3848" width="1.61538" height="1.61538" fill="currentColor"/>
+    <rect x="17.7693" width="1.61538" height="1.61538" transform="rotate(90 17.7693 0)" fill="currentColor"/>
+    <rect x="16.1538" width="1.61538" height="1.61538" transform="rotate(90 16.1538 0)" fill="currentColor"/>
+    <rect x="14.5385" width="1.61538" height="1.61538" transform="rotate(90 14.5385 0)" fill="currentColor"/>
+    <rect x="12.9231" width="1.61538" height="1.61538" transform="rotate(90 12.9231 0)" fill="currentColor"/>
+    <rect x="11.3077" width="1.61538" height="1.61538" transform="rotate(90 11.3077 0)" fill="currentColor"/>
+    <rect x="9.69226" width="1.61538" height="1.61538" transform="rotate(90 9.69226 0)" fill="currentColor"/>
+    <rect x="8.0769" width="1.61538" height="1.61538" transform="rotate(90 8.0769 0)" fill="currentColor"/>
+    <rect x="6.46155" width="1.61538" height="1.61538" transform="rotate(90 6.46155 0)" fill="currentColor"/>
+    <rect x="4.84619" width="1.61538" height="1.61538" transform="rotate(90 4.84619 0)" fill="currentColor"/>
+    <rect x="3.23071" width="1.61538" height="1.61538" transform="rotate(90 3.23071 0)" fill="currentColor"/>
+    <rect x="19.3846" y="1.61523" width="1.61538" height="1.61538" transform="rotate(90 19.3846 1.61523)" fill="currentColor"/>
+    <rect x="4.84619" y="3.23047" width="1.61538" height="1.61538" transform="rotate(90 4.84619 3.23047)" fill="currentColor"/>
+    <rect x="4.84619" y="1.61523" width="1.61538" height="1.61538" transform="rotate(90 4.84619 1.61523)" fill="currentColor"/>
+    <rect x="4.84619" y="4.8457" width="1.61538" height="1.61538" transform="rotate(90 4.84619 4.8457)" fill="currentColor"/>
+    <rect x="16.1538" y="3.23047" width="1.61538" height="1.61538" transform="rotate(90 16.1538 3.23047)" fill="currentColor"/>
+    <rect x="16.1538" y="1.61523" width="1.61538" height="1.61538" transform="rotate(90 16.1538 1.61523)" fill="currentColor"/>
+    <rect x="16.1538" y="4.8457" width="1.61538" height="1.61538" transform="rotate(90 16.1538 4.8457)" fill="currentColor"/>
+    <rect x="12.9231" y="3.23047" width="1.61538" height="1.61538" transform="rotate(90 12.9231 3.23047)" fill="currentColor"/>
+    <rect x="12.9231" y="1.61523" width="1.61538" height="1.61538" transform="rotate(90 12.9231 1.61523)" fill="currentColor"/>
+    <rect x="12.9231" y="4.8457" width="1.61538" height="1.61538" transform="rotate(90 12.9231 4.8457)" fill="currentColor"/>
+    <rect x="16.1538" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 16.1538 6.46191)" fill="currentColor"/>
+    <rect x="14.5385" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 14.5385 6.46191)" fill="currentColor"/>
+    <rect x="12.9231" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 12.9231 6.46191)" fill="currentColor"/>
+    <rect x="11.3077" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 11.3077 6.46191)" fill="currentColor"/>
+    <rect x="9.69226" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 9.69226 6.46191)" fill="currentColor"/>
+    <rect x="8.0769" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 8.0769 6.46191)" fill="currentColor"/>
+    <rect x="6.46155" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 6.46155 6.46191)" fill="currentColor"/>
+    <rect x="4.84619" y="6.46191" width="1.61538" height="1.61538" transform="rotate(90 4.84619 6.46191)" fill="currentColor"/>
+    <rect x="17.7693" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 17.7693 11.3076)" fill="currentColor"/>
+    <rect x="16.1538" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 16.1538 11.3076)" fill="currentColor"/>
+    <rect x="14.5385" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 14.5385 11.3076)" fill="currentColor"/>
+    <rect x="12.9231" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 12.9231 11.3076)" fill="currentColor"/>
+    <rect x="11.3077" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 11.3077 11.3076)" fill="currentColor"/>
+    <rect x="9.69226" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 9.69226 11.3076)" fill="currentColor"/>
+    <rect x="8.0769" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 8.0769 11.3076)" fill="currentColor"/>
+    <rect x="6.46155" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 6.46155 11.3076)" fill="currentColor"/>
+    <rect x="4.84619" y="11.3076" width="1.61538" height="1.61538" transform="rotate(90 4.84619 11.3076)" fill="currentColor"/>
+    <rect x="17.7693" y="12.9229" width="1.61538" height="1.61538" transform="rotate(90 17.7693 12.9229)" fill="currentColor"/>
+    <rect x="4.84619" y="12.9229" width="1.61538" height="1.61538" transform="rotate(90 4.84619 12.9229)" fill="currentColor"/>
+    <rect x="17.7693" y="14.5381" width="1.61538" height="1.61538" transform="rotate(90 17.7693 14.5381)" fill="currentColor"/>
+    <rect x="4.84619" y="14.5381" width="1.61538" height="1.61538" transform="rotate(90 4.84619 14.5381)" fill="currentColor"/>
+    <rect x="17.7693" y="16.1543" width="1.61538" height="1.61538" transform="rotate(90 17.7693 16.1543)" fill="currentColor"/>
+    <rect x="4.84619" y="16.1543" width="1.61538" height="1.61538" transform="rotate(90 4.84619 16.1543)" fill="currentColor"/>
+    <rect x="4.84619" y="17.7695" width="1.61538" height="1.61538" transform="rotate(90 4.84619 17.7695)" fill="currentColor"/>
+    <rect x="17.7693" y="17.7695" width="1.61538" height="1.61538" transform="rotate(90 17.7693 17.7695)" fill="currentColor"/>
+    <rect x="19.3846" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 19.3846 19.3848)" fill="currentColor"/>
+    <rect x="17.7693" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 17.7693 19.3848)" fill="currentColor"/>
+    <rect x="16.1538" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 16.1538 19.3848)" fill="currentColor"/>
+    <rect x="14.5385" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 14.5385 19.3848)" fill="currentColor"/>
+    <rect x="12.9231" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 12.9231 19.3848)" fill="currentColor"/>
+    <rect x="11.3077" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 11.3077 19.3848)" fill="currentColor"/>
+    <rect x="9.69226" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 9.69226 19.3848)" fill="currentColor"/>
+    <rect x="8.0769" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 8.0769 19.3848)" fill="currentColor"/>
+    <rect x="6.46155" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 6.46155 19.3848)" fill="currentColor"/>
+    <rect x="4.84619" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 4.84619 19.3848)" fill="currentColor"/>
+    <rect x="3.23071" y="19.3848" width="1.61538" height="1.61538" transform="rotate(90 3.23071 19.3848)" fill="currentColor"/>
+    <rect x="21" y="21" width="1.61538" height="1.61538" transform="rotate(-180 21 21)" fill="currentColor"/>
+    <rect x="21" y="19.3848" width="1.61538" height="1.61538" transform="rotate(-180 21 19.3848)" fill="currentColor"/>
+    <rect x="21" y="17.7695" width="1.61538" height="1.61538" transform="rotate(-180 21 17.7695)" fill="currentColor"/>
+    <rect x="21" y="16.1543" width="1.61538" height="1.61538" transform="rotate(-180 21 16.1543)" fill="currentColor"/>
+    <rect x="21" y="14.5381" width="1.61538" height="1.61538" transform="rotate(-180 21 14.5381)" fill="currentColor"/>
+    <rect x="21" y="12.9229" width="1.61538" height="1.61538" transform="rotate(-180 21 12.9229)" fill="currentColor"/>
+    <rect x="21" y="11.3076" width="1.61538" height="1.61538" transform="rotate(-180 21 11.3076)" fill="currentColor"/>
+    <rect x="21" y="9.69238" width="1.61538" height="1.61538" transform="rotate(-180 21 9.69238)" fill="currentColor"/>
+    <rect x="21" y="8.07715" width="1.61538" height="1.61538" transform="rotate(-180 21 8.07715)" fill="currentColor"/>
+    <rect x="21" y="6.46191" width="1.61538" height="1.61538" transform="rotate(-180 21 6.46191)" fill="currentColor"/>
+    <rect x="21" y="4.8457" width="1.61538" height="1.61538" transform="rotate(-180 21 4.8457)" fill="currentColor"/>
   </symbol>
 </svg>

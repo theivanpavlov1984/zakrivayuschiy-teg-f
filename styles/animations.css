@@ -1,4 +1,4 @@
-@keyframes heart-scale {
+@keyframes scaleHeart {
   0% {
     transform: scale(1);
   }
@@ -7,7 +7,7 @@
   }
 }
 
-@keyframes sparks {
+@keyframes fadeInSparks {
   0% {
     opacity: 0;
   }
@@ -78,9 +78,9 @@
 }
 
 .like-icon.is-liked .heart {
-  animation: heart-scale 0.3s ease-in 0.1s;
+  animation: scaleHeart 0.3s ease-in 0.1s;
 }
 
 .like-icon.is-liked .sparks {
-  animation: sparks 0.3s ease-in 0.3s;
+  animation: fadeInSparks 0.3s ease-in 0.3s;
 }
